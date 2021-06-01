@@ -91,7 +91,7 @@ six==1.10.0
 taskw==1.1.0
 tornado==4.2.1
 Twisted==16.0.0
-urllib3==1.13.1
+urllib3==1.26.5
 uTidylib==0.2
 variety==0.6.3
 variety-slideshow==0.1
